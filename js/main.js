@@ -83,6 +83,7 @@ var container_Elt = document.getElementById('moncercle6');
 							//joue le son de la var audio (bravo)
 							playSound2()
 								masquerlediv2()
+								alert("tu as gagné");
 								  }
 
 								  setTimeout(() =>{
@@ -97,5 +98,7 @@ var container_Elt = document.getElementById('moncercle6');
 												moncercle4.style.backgroundColor="blue"},3000)
 									  
 
-								 
-				
+
+												
+													
+												  
